@@ -1,1 +1,24 @@
 /* You can add global styles to this file, and also import other style files */
+/* Application-wide Styles */
+h1 {
+    color: #e42c2b;
+    font-family: Interstate-BlackCondItalic,sans-serif;
+    font-size: 250%;
+  }
+
+  h2, h3, h4 {
+    color: #337ab7;
+    font-family: Interstate-BlackCondItalic,sans-serif;
+    font-weight: lighter;
+  }
+  body {
+    margin: 2em;
+  }
+  body, input[type="text"], button {
+    color: #fa2e83;
+    font-family: Interstate-BlackCondItalic,sans-serif;
+  }
+  /* everywhere else */
+  * {
+    font-family: Interstate-BlackCondItalic,sans-serif;
+  }
