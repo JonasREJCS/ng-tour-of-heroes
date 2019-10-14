@@ -1,5 +1,5 @@
-/* You can add global styles to this file, and also import other style files */
-/* Application-wide Styles */
+You can add global styles to this file, and also import other style files
+
 h1 {
     color: #e42c2b;
     font-family: Interstate-BlackCondItalic,sans-serif;
@@ -7,7 +7,7 @@ h1 {
   }
 
   h2, h3, h4 {
-    color: #337ab7;
+    color: #339ab7;
     font-family: Interstate-BlackCondItalic,sans-serif;
     font-weight: lighter;
   }
@@ -18,7 +18,7 @@ h1 {
     color: #fa2e83;
     font-family: Interstate-BlackCondItalic,sans-serif;
   }
-  /* everywhere else */
   * {
     font-family: Interstate-BlackCondItalic,sans-serif;
   }
+  
